@@ -1,0 +1,41 @@
+
+!! !!!NOUN AFFIXES
+! =====
+
+LEXICON N-INIT
+NCL ;
+
+
+! The class prefixes
+! ------------------
+
+LEXICON NCL
+1^1/2+:umu%> NCL1/2 ;
++2^1/2+:ba%> NCL1/2 ;
++1a^1a/2a+:u%> NCL1a/2a ;
++2a^1a/2a+:o%> NCL1a/2a ;
++3^3/4+:um%> NCL3/4 ;
+!i+5^5/6+:i%> NCL5/6 ;
+i+5^5/6+:ili%> NCL5/6 ;
++6^5/6+:ama%> NCL5/6 ;
++7^7/8+:isi%> NCL7/8 ;
++8^7/8+:izi%> NCL7/8 ;
++9^9/10+:in%> NCL9/10 ;
++10^9/10+:izin%> NCL9/10 ;
++9^9/6+:in%> NCL9/6 ;
++6^9/6+:ama%> NCL9/6 ;
+!+u+11+:u%> NCL11 ;
++11+:ulu%> NCL11 ;
++14:u%> NCL14 ;
++15+:uku%> NCL15 ;
+
+
+
+! The postnominal morphology
+! --------------------------
+
+LEXICON NDim
++N: ENDLEX ;
++N+Dim:%>ana ENDLEX ;
+
+

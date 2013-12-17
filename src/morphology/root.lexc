@@ -1,0 +1,39 @@
+! Divvun & Giellatekno - open source grammars for UNDEFINED language
+! Copyright © 2012 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+!! Morphology
+!! ----------
+
+Multichar_Symbols
++V +N +A +NM
+
++SC +Pres +Fut +Pers +Pot +OC +Lat +Pst +Cons
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
++Stat +VFA +VFE 
+
++CL1 +CL1a +CL2 +CL2a +CL3 +CL4 +CL5 +CL6 +CL7 +CL8 +CL9 +CL10 +CL11 +CL14 +CL15
+
++1^1/2 +2^1/2 +1a^1a/2a +2a^1a/2a +3^3/4 +4^3/4 +5^5/6 +6^5/6 +7^7/8 +8^7/8
++9^9/6 +6^9/6 +9^9/10 +10^9/10 +11 +14 +15
+%> ^VSUF
+
+@P.NeedNeg.ON@ @C.NeedNeg@ @D.NeedNeg.ON@
+
+LEXICON Root
+V-INIT ;
+N-INIT ;
+
+! Since I do not know what follows, I make two preliminary lexica under Root,
+! one for the beginning of a noun and the other for the biginning of a verb.
+

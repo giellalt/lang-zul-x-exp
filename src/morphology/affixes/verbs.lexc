@@ -1,0 +1,70 @@
+
+
+! Verbs
+! =====
+
+LEXICON V-INIT
++Neg:a%>@P.NeedNeg.ON@ SCPREF ;
+SCPREF ;
+
+LEXICON SCPREF
++SC+Sg1+:ngi%> TNS ;
++SC+Pl1+:si%> TNS ;
++SC+Sg2+:u%> TNS ;
++SC+Pl2+:ni%> TNS ;
++SC+CL1+:u%> TNS ;
++SC+CL2+:ba%> TNS ;
++SC+CL1a+:u%> TNS ;
++SC+CL2a+:ba%> TNS ;
++SC+CL3+:u%> TNS ;
++SC+CL4+:i%> TNS ;
++SC+CL5+:li%> TNS ;
++SC+CL6+:a%> TNS ;
++SC+CL7+:si%> TNS ;
++SC+CL8+:zi%> TNS ;
++SC+CL9+:i%> TNS ; 
++SC+CL11+:lu%> TNS ; 
++SC+CL14+:bu%> TNS ; 
++SC+CL15+:ku%> TNS ; 
+
+LEXICON TNS
+OCPREF ;
+Prs+:ya%> OCPREF ;
+Fut+:zo%> OCPREF ;
+Fut+:yo%> OCPREF ;
+Fut+:zoku%> OCPREF ;
+
+LEXICON OCPREF
+VROOT ;
+OC+Sg1+:ngi%> VROOT ;
+OC+Pl1+:si%> VROOT ;
+OC+Sg2+:ku%> VROOT ;
+OC+Pl2+:ni%> VROOT ;
+OC+CL1+:m%> VROOT ;
+OC+CL2+:ba%> VROOT ;
+OC+CL1a+:m%> VROOT ;
+OC+CL2a+:ba%> VROOT ;
+OC+CL3+:wu%> VROOT ;
+OC+CL4+:yi%> VROOT ;
+OC+CL5+:li%> VROOT ;
+OC+CL6+:wa%> VROOT ;
+OC+CL7+:si%> VROOT ;
+OC+CL8+:zi%> VROOT ;
+OC+CL9+:yi%> VROOT ; 
+OC+CL11+:lu%> VROOT ; 
+OC+CL14+:bu%> VROOT ; 
+OC+CL15+:ku%> VROOT ;
+
+
+
+
+LEXICON VSUFF
++V+VFA: ENDLEX ;
++V+VFE:%>^VSUFe ENDLEX ;
++V+Stat:%>^VSUFile ENDLEX ;
++V+Stat:%>^VSUFile ENDLEX ;
+ :%>^VSUFi@C.NeedNeg@ ENDLEX ;
+ :%>^VSUFanga@C.NeedNeg@ ENDLEX ;
+
+LEXICON ENDLEX
+@D.NeedNeg.ON@ # ;

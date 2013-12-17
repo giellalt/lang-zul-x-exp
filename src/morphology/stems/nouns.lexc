@@ -1,0 +1,37 @@
+! The nouns
+! ---------
+
+LEXICON NCL1/2 
+ntu NDim "person" ;
+lungu NDim "white person" ;
+
+
+LEXICON NCL1a/2a 
+baba NDim "father" ;
+
+LEXICON NCL3/4 
+fula  NDim "river" ;
+
+LEXICON NCL5/6 
+bhayisikili NDim "bicycle" ;
+
+LEXICON NCL7/8 
+kole NDim "school" ;
+
+LEXICON NCL9/10 
+dlu NDim "house" ;
+
+LEXICON NCL9/6
+doda NDim "man" ;
+kosi NDim "chief" ; ! does not cover irregular pl -kh-
+tombazane NDim "girl" ; ! does not cover irregular pl -a
+
+LEXICON NCL11
+debe NDim "lip" ;
+
+LEXICON NCL14 
+ntu NDim "human nature" ;
+
+LEXICON NCL15
+hamba NDim "travellng" ;
+
