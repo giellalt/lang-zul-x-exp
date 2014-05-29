@@ -11,15 +11,22 @@ baba NDim "father" ;
 
 LEXICON NCL3/4 
 fula  NDim "river" ;
+hlaba NDim ;
 
 LEXICON NCL5/6 
 bhayisikili NDim "bicycle" ;
+zwe NDim ;
+shumi NDim ;
+khilomitha NDim ;
 
 LEXICON NCL7/8 
 kole NDim "school" ;
+khundla NDim ;
+
 
 LEXICON NCL9/10 
 dlu NDim "house" ;
+nyakatho NDim ;
 
 LEXICON NCL9/6
 doda NDim "man" ;
