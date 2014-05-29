@@ -34,7 +34,7 @@ define PrefixShortening [ u m u -> u m ,
 
 echo *** modification rules ***
 
-define VerbTruncation [ a -> 0 || _ %> ^VSUF ] ;
+!define VerbTruncation [ a -> 0 || _ %> ^VSUF ] ;
 
 define VowelSimplification [ a %> u -> o ,
        a %> i -> e , a %> a -> a , a %> e -> e ] ;
