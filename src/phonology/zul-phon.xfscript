@@ -1,4 +1,8 @@
-! Rule file for Zulu
+!! !!!Rule file for Zulu
+
+!! !!Definitions
+
+!! Define Vow, Cns, Syll, Dummy
 
 clear stack
 
@@ -17,28 +21,37 @@ echo  *** Sets are defined ***
 echo  *** Compiling the rules *** 
 echo  *** Defining individual rules *** 
 
+!! !!Rules
+
+!! !Insertion change
+
+define uwChange [ u -> w || _ %> a ] ; !!= * @CODE@
+!! ** to handle diminutive abantu - abantwana
+
+define yInsert [ [..] -> y || Vow %> _ Vow ] ; !!= * @CODE@
 
 
-define uwChange [ u -> w || _ %> a ] ;
-! to handle diminutive abantu - abantwana
 
-define yInsert [ [..] -> y || Vow %> _ Vow ] ;
-
-
-
+!! !Deletion rules
 
 echo *** deletion rules ***
 
+!! PrefixShortening umu to um
 define PrefixShortening [ u m u -> u m ,
        i l i -> i , u l u -> u || _ %> Syll Syll ] ;
 
 echo *** modification rules ***
 
+
 !define VerbTruncation [ a -> 0 || _ %> ^VSUF ] ;
+
+!! VowelSimplification a u to o
 
 define VowelSimplification [ a %> u -> o ,
        a %> i -> e , a %> a -> a , a %> e -> e ] ;
 ! check last part.
+
+
 
 echo  *** Deleting the dummies *** 
 
@@ -54,7 +67,9 @@ yInsert
 PrefixShortening
 .o.
 VowelSimplification
-.o. 
+.o.
+#VerbTruncation
+#.o. 
 DummyDeletion ] ;
 
 
