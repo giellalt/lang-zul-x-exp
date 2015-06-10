@@ -21,6 +21,7 @@ GT_LEXC_ROOT=root.lexc
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
 			 stems/nouns.lexc \
+			 stems/punctuation.lexc   \
 			 stems/verbs.lexc \
 			 affixes/nouns.lexc \
 			 affixes/verbs.lexc
