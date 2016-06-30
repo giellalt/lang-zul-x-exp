@@ -25,10 +25,10 @@ echo  *** Defining individual rules ***
 
 !! !Insertion change
 
-define uwChange [ u -> w || _ %> a ] ; !!= * @CODE@
-!! ** to handle diminutive abantu - abantwana
+define uwChange [ u -> w || _ %> a ] ; !!= {{{@CODE@}}}
+!! * to handle diminutive abantu - abantwana
 
-define yInsert [ [..] -> y || Vow %> _ Vow ] ; !!= * @CODE@
+define yInsert [ [..] -> y || Vow %> _ Vow ] ; !!= {{{@CODE@}}}
 
 
 
