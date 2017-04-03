@@ -67,3 +67,5 @@ N-INIT ;
 ! Since I do not know what follows, I make two preliminary lexica under Root,
 ! one for the beginning of a noun and the other for the biginning of a verb.
 
+LEXICON K 
+# ;
