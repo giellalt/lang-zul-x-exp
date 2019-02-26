@@ -63,6 +63,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 LEXICON Root
 V-INIT ;
 N-INIT ;
+Punctuation ;
+Symbols     ;
 
 ! Since I do not know what follows, I make two preliminary lexica under Root,
 ! one for the beginning of a noun and the other for the biginning of a verb.
