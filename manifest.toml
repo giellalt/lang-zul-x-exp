@@ -1,0 +1,9 @@
+name = "Zulu"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.zu"
+
+[windows]
+system_product_code = "C28CEEFA-5BA5-40BD-B2D5-77D5A968665B"
+msoffice_product_code = "B03EE16A-5372-492B-B672-D675C94C92B6"
