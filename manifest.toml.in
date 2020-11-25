@@ -2,8 +2,11 @@ name = "Zulu"
 version = "@SPELLERVERSION@"
 
 [macos]
-system_pkg_id = "no.divvun.MacDivvun.zu"
+system_pkg_id = "no.divvun.MacDivvun.zu-x-exp"
 
 [windows]
-system_product_code = "C28CEEFA-5BA5-40BD-B2D5-77D5A968665B"
-msoffice_product_code = "B03EE16A-5372-492B-B672-D675C94C92B6"
+system_product_code = "{E205EF6C-4611-4A9D-B7C3-6C07548E8B94}_is1"
+legacy_product_codes = [
+    { value = "C28CEEFA-5BA5-40BD-B2D5-77D5A968665B", kind = "nsis" },
+    { value = "B03EE16A-5372-492B-B672-D675C94C92B6", kind = "nsis" }
+]
