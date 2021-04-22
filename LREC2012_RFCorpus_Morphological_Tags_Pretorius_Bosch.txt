@@ -1,0 +1,287 @@
+DATA FILE: Rugby_football_interwiki-Written-zul.html from library_191.zip
+NOTE 1: '@' indicates the in context corrrect analysis in cases where multiple valid analyses are given. 
+NOTE 2: The tag set and their descriptions are given at the end of this file. 
+------------ Start of annotated data --------------------
+umbhoxo:
+u[NPrePre3]mu[BPre3]bhoxo[NStem]
+
+/:
+[Punct]
+
+iragbhi:
+i[NPrePre5]li[BPre5]ragbhi[NStem]
+
+uhlobo:
+u[NPrePre11]lu[BPre11]hlobo[NStem]
+
+lomdlalo:
+@la[PossConc5]u[NPrePre3]mu[BPre3]dlalo[NStem]
+lwa[PossConc11]u[NPrePre3]mu[BPre3]dlalo[NStem]
+
+othi:
+a[PossConc6]u[NPrePre11]lu[BPre11]thi[NStem]
+o[LocPre]u[NPrePre11]lu[BPre11]thi[NStem]
+o[LocPre]u[NPrePre14]bu[BPre14]thi[NStem]
+o[RelConc1]th[VRoot]i[VerbTerm]
+@o[RelConc3]th[VRoot]i[VerbTerm]
+o[RelConc2ps]th[VRoot]i[VerbTerm]
+
+awufani:
+a[HortPre]u[HortSC3]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[HortPre]u[HortSC2ps]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[NegPre]u[SC3]f[VRoot]an[RecipExt]i[VerbTermNeg]
+@a[NegPre]u[SC3]fan[VRoot]i[VerbTermNeg]
+a[NegPre]u[SC2ps]f[VRoot]an[RecipExt]i[VerbTermNeg]
+a[NegPre]u[SC2ps]fan[VRoot]i[VerbTermNeg]
+a[PTSC6]wu[OC3]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[PTSC6]wu[OC2ps]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SC6]wu[OC3]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SC6]wu[OC2ps]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SubjSC1]wu[OC3]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SubjSC1]wu[OC2ps]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SubjSC6]wu[OC3]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+a[SubjSC6]wu[OC2ps]f[VRoot]a[VerbTerm]ni[InterrogSuf]
+
+nomdlalo:
+na[AdvPre]u[NPrePre3]mu[BPre3]dlalo[NStem]
+
+webhola:
+wa[PossConc1]i[NPrePre5]li[BPre5]bhola[NStem]
+@wa[PossConc3]i[NPrePre5]li[BPre5]bhola[NStem]
+
+lezinyawo:
+la[PossConc5]i[NPrePre10]zin[BPre10]nyawo[NStem]
+
+.:
+[Punct]
+
+kulo:
+ku[LocPre]lo[Dem1Pos1]
+@ku[LocPre]lo[Dem3Pos1]
+ku[LocPre]lo[PronStem11]
+ku[LocPre]lo[PronStem5]
+
+mdlalo:
+mu[BPre3]dlalo[NStem]
+
+kudlalwa:
+ku[BPre15]dlal[VRoot]w[PassExt]a[VerbTerm]
+@ku[SC15]dlal[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]dlal[VRoot]w[PassExt]a[VerbTerm]
+
+ngebhola:
+nga[AdvPre]i[NPrePre5]li[BPre5]bhola[NStem]
+
+ilimise:
+@i[SC4]li[OC5](i)m[VRoot]is[CausExt]e[VerbTermPerf]
+i[SC4]lim[VRoot]is[CausExt]e[VerbTermPerf]
+i[SC9]li[OC5](i)m[VRoot]is[CausExt]e[VerbTermPerf]
+i[SC9]lim[VRoot]is[CausExt]e[VerbTermPerf]
+i[SubjSC4]li[OC5](i)m[VRoot]is[CausExt]e[VerbTermSubj]
+i[SubjSC4]lim[VRoot]is[CausExt]e[VerbTermSubj]
+i[SubjSC9]li[OC5](i)m[VRoot]is[CausExt]e[VerbTermSubj]
+i[SubjSC9]lim[VRoot]is[CausExt]e[VerbTermSubj]
+
+okweqanda:
+a[RelMorph]kwa[PossConc15]i[NPrePre5]li[BPre5]qanda[NStem]
+
+.:
+[Punct]
+
+leli:
+leli[Dem5Pos1]
+
+bhuthi:
+bhuthi[NStem]
+@li[BPre5]bhuthi[NStem]
+
+ola:
+o[RelConc1]la[Adv]
+@o[RelConc3]la[Adv]
+o[RelConc2ps]la[Adv]
+
+kugijinywa:
+ku[BPre15]gijim[VRoot]w[PassExt]a[VerbTerm]
+@ku[SC15]gijim[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]gijim[VRoot]w[PassExt]a[VerbTerm]
+
+nalo:
+na[AdvPre]lo[Dem1Pos1]
+na[AdvPre]lo[Dem3Pos1]
+na[AdvPre]lo[PronStem11]
+@na[AdvPre]lo[PronStem5]
+nalo[Conj]
+
+libanjwe:
+li[OC5]bamb[VRoot]w[PassExt]e[VerbTerm]
+@li[SC5]bamb[VRoot]w[PassExt]e[VerbTermPerf]
+li[SubjSC5]bamb[VRoot]w[PassExt]e[VerbTermSubj]
+
+ngezandla:
+nga[AdvPre]i[NPrePre8]zi[BPre8]andla[NStem]
+
+.:
+[Punct]
+
+kanti:
+kanti[Conj]
+
+futhi:
+futhi[Conj]
+
+libuye:
+li[OC5]buy[VRoot]e[VerbTerm]
+li[SC5]bu[OC14]y[VRoot]e[VerbTermPerf]
+@li[SC5]buy[VRoot]e[VerbTermPerf]
+li[SubjSC5]bu[OC14]y[VRoot]e[VerbTermSubj]
+li[SubjSC5]buy[VRoot]e[VerbTermSubj]
+
+likhahlelwe:
+li[OC5]khahlel[VRoot]w[PassExt]e[VerbTerm]
+@li[SC5]khahlel[VRoot]w[PassExt]e[VerbTermPerf]
+li[SubjSC5]khahlel[VRoot]w[PassExt]e[VerbTermSubj]
+
+ngezinyawo:
+nga[AdvPre]i[NPrePre10]zin[BPre10]nyawo[NStem]
+
+uma:
+u[SC1](i)m[VRoot]a[VerbTerm]
+u[SC3](i)m[VRoot]a[VerbTerm]
+u[SC2ps](i)m[VRoot]a[VerbTerm]
+u[SubjSC3](i)m[VRoot]a[VerbTerm]
+u[SubjSC2ps](i)m[VRoot]a[VerbTerm]
+@uma[Conj]
+
+sekushaywa:
+ku[SC15]se[AuxVStem]ku[SC15]shay[VRoot]w[PassExt]a[VerbTerm]
+
+ipenalti:
+i[NPrePre5]li[BPre5]penalti[NStem]
+
+.:
+[Punct]
+
+lo:
+lo[Conj]
+lo[Dem1Pos1]
+@lo[Dem3Pos1]
+
+mdlalo:
+mu[BPre3]dlalo[NStem]
+
+ubuye:
+u[SC1]bu[OC14]y[VRoot]e[VerbTermPerf]
+u[SC1]buy[VRoot]e[VerbTermPerf]
+u[SC3]be[AuxVStem]u[SC3]y[VRoot]e[VerbTermPerf]
+u[SC3]bu[OC14]y[VRoot]e[VerbTermPerf]
+@u[SC3]buy[VRoot]e[VerbTermPerf]
+u[SC2ps]bu[OC14]y[VRoot]e[VerbTermPerf]
+u[SC2ps]buy[VRoot]e[VerbTermPerf]
+u[SubjSC3]bu[OC14]y[VRoot]e[VerbTermSubj]
+u[SubjSC3]buy[VRoot]e[VerbTermSubj]
+u[SubjSC2ps]bu[OC14]y[VRoot]e[VerbTermSubj]
+u[SubjSC2ps]buy[VRoot]e[VerbTermSubj]
+
+ufake:
+u[SC1]fak[VRoot]e[VerbTermPerf]
+@u[SC3]fak[VRoot]e[VerbTermPerf]
+u[SC2ps]fak[VRoot]e[VerbTermPerf]
+u[SubjSC3]fak[VRoot]e[VerbTermSubj]
+u[SubjSC2ps]fak[VRoot]e[VerbTermSubj]
+
+phakathi:
+li[BPre5]phakathi[NStem]
+@phakathi[Adv]
+phakathi[NStem]
+
+ukusunduzana:
+@u[NPrePre15]ku[BPre15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+u[SC1]ku[OC15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+u[SC3]ku[OC15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+u[SC2ps]ku[OC15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+u[SubjSC3]ku[OC15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+u[SubjSC2ps]ku[OC15]sunduz[VRoot]an[RecipExt]a[VerbTerm]
+
+.:
+[Punct]
+
+ngenkathi:
+nga[AdvPre]i[NPrePre9]n[BPre9]khathi[NStem]
+
+kuzanywa:
+@ku[BPre15]zam[VRoot]w[PassExt]a[VerbTerm]
+ku[BPre15]zi[OC10]any[VRoot]w[PassExt]a[VerbTerm]
+ku[BPre15]zi[OC8]any[VRoot]w[PassExt]a[VerbTerm]
+ku[BPre15]zi[ReflPre]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SC15]zam[VRoot]w[PassExt]a[VerbTerm]
+ku[SC15]zi[OC10]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SC15]zi[OC8]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SC15]zi[ReflPre]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SC15]zo[Fut]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]zam[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]zi[OC10]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]zi[OC8]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]zi[ReflPre]any[VRoot]w[PassExt]a[VerbTerm]
+ku[SubjSC15]zo[Fut]any[VRoot]w[PassExt]a[VerbTerm]
+
+ukuba:
+u[NPrePre15]ku[BPre15]b[VRoot]a[VerbTerm]
+u[SC1]ku[OC15]b[VRoot]a[VerbTerm]
+u[SC3]ku[OC15]b[VRoot]a[VerbTerm]
+u[SC2ps]ku[OC15]b[VRoot]a[VerbTerm]
+u[SubjSC3]ku[OC15]b[VRoot]a[VerbTerm]
+u[SubjSC2ps]ku[OC15]b[VRoot]a[VerbTerm]
+@ukuba[Conj]
+
+kuthathelwane:
+ku[OC15]thath[VRoot]el[ApplExt]w[PassExt]an[RecipExt]e[VerbTerm]
+@ku[SC15]thath[VRoot]el[ApplExt]w[PassExt]an[RecipExt]e[VerbTermPerf]
+ku[SubjSC15]thath[VRoot]el[ApplExt]w[PassExt]an[RecipExt]e[VerbTermSubj]
+
+ibhola:
+@i[NPrePre5]li[BPre5]bhola[NStem]
+i[SC4]bhol[VRoot]a[VerbTerm]
+i[SC9]bhol[VRoot]a[VerbTerm]
+i[SubjSC4]bhol[VRoot]a[VerbTerm]
+i[SubjSC9]bhol[VRoot]a[VerbTerm]
+
+.:
+[Punct]
+------------ End of annotated data --------------------
+------------ Start of tag set description--------------
+NOTE: 'X' is an element of the set {1, 1a, 2, 2a, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 17} of Zulu class numbers 
+and 'Y' is an element of X union {1ps, 1pp, 2ps, 2pp}.
+
+[Adv] : Adverb
+[AdvPre] : Adverbial prefix
+[ApplExt] : Applicative extension
+[AuxVStem] : Auxiliary verb stem
+[BPreX] : Basic noun prefix of class X
+[CausExt] : Causative extension
+[Conj] : Conjunction
+[DemXPos1] : Demonstrative of class X position 1
+[Fut] : Future tense
+[HortPre] : Hortative prefix
+[HortSCY] : Hortative subject concord of class/type Y
+[InterrogSuf] : Interrogative suffix
+[LocPre] : Locative prefix
+[NegPre] : Negative prefix
+[NPrePreX] : Noun preprefix of class X
+[NStem] : Noun stem
+[OCY] : Object concord of class/type Y
+[PassExt] : Passive extension
+[PossConcX] : Possessive concord of class X
+[PronStemX] : Pronominal stem of class X
+[PTSCX] : Past tense subject concord of class X
+[RecipExt] : Reciprocal extension
+[ReflPre] : Reflexive prefix
+[RelConcY] : Relative concord of class/type Y
+[RelMorph] : Relative morpheme
+[SCY] : Subject concord of class/type Y
+[SubjSCY] : Subjunctive subject concord of class/type Y
+[VerbTerm] : Verb terminative
+[VerbTermNeg] : Verb terminative negative 
+[VerbTermPerf] : Verb terminative perfektum
+[VerbTermSubj] : Verb terminative subjunctive mood
+[VRoot] : Verb root
+--------------- End tag set description-----------------
