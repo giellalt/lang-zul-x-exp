@@ -1,4 +1,23 @@
 
+# NOUN AFFIXES
+
+
+
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+
 Morphology
 
  # Definitions for Multichar_Symbols
@@ -37,39 +56,21 @@ given the proper use of these flags.
 
 
 
-!!!Rule file for Zulu
-
-!!Definitions
-
-Define Vow, Cns, Syll, Dummy
+Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
 
 
 
+Pronouns
+Pronouns in the Zulu language are references to things.
 
 
+Adjectives
+Adjectives in the Zulu language describe things.
 
 
-
-!!Rules
-
-!Insertion change
-
- {{{define uwChange [ u -> w || _ %> a ] ; }}}
-* to handle diminutive abantu - abantwana
-
- {{{define yInsert [ [..] -> y || Vow %> _ Vow ] ; }}}
-
-
-
-!Deletion rules
-
-
-PrefixShortening umu to um
-
-
-
-
-VowelSimplification a u to o
+Numerals
+Numerals in the Zulu language are numbers.
 
 
 
@@ -78,5 +79,67 @@ VowelSimplification a u to o
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Zulu are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
