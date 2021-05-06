@@ -1,3 +1,27 @@
+Numerals
+Numerals in the Zulu language are numbers.
+
+
+Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
+
+
+
+Adjectives
+Adjectives in the Zulu language describe things.
+
+
+Pronouns
+Pronouns in the Zulu language are references to things.
+
+
+
+# Symbol affixes
+
+
+
+
+
 
 # NOUN AFFIXES
 
@@ -5,13 +29,6 @@
 
 
 
-
-
-
-
-
-
-# Symbol affixes
 
 
 
@@ -56,21 +73,20 @@ given the proper use of these flags.
 
 
 
-Prefixes
-Prefixes in the Zulu language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Zulu language are references to things.
+We describe here how abbreviations are in Zulu are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Adjectives
-Adjectives in the Zulu language describe things.
-
-
-Numerals
-Numerals in the Zulu language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -126,20 +142,4 @@ Numerals in the Zulu language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Zulu are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
