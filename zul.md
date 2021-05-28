@@ -605,30 +605,6 @@ These were the set types.
 
 
 
-Numerals
-Numerals in the Zulu language are numbers.
-
-
-Prefixes
-Prefixes in the Zulu language are bound to beginning of other words.
-
-
-
-Adjectives
-Adjectives in the Zulu language describe things.
-
-
-Pronouns
-Pronouns in the Zulu language are references to things.
-
-
-
-# Symbol affixes
-
-
-
-
-
 
 # NOUN AFFIXES
 
@@ -638,6 +614,30 @@ Pronouns in the Zulu language are references to things.
 
 
 
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Pronouns
+Pronouns in the Zulu language are references to things.
+
+
+Numerals
+Numerals in the Zulu language are numbers.
+
+
+Adjectives
+Adjectives in the Zulu language describe things.
+
+
+Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
 
 
 
@@ -678,22 +678,6 @@ given the proper use of these flags.
  |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 
-
-
-
-
-
-We describe here how abbreviations are in Zulu are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
 
 
 
@@ -749,6 +733,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Zulu are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
