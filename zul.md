@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -605,43 +605,8 @@ These were the set types.
 
 
 
-
-# NOUN AFFIXES
-
-
-
-
-
-
-
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-Pronouns
-Pronouns in the Zulu language are references to things.
-
-
-Numerals
-Numerals in the Zulu language are numbers.
-
-
-Adjectives
-Adjectives in the Zulu language describe things.
-
-
-Prefixes
-Prefixes in the Zulu language are bound to beginning of other words.
-
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-zul/blob/main/../src/cg3/functions.cg3)</small>
 Morphology
 
  # Definitions for Multichar_Symbols
@@ -680,7 +645,50 @@ given the proper use of these flags.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/root.lexc)</small>
+# NOUN AFFIXES
 
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronouns
+Pronouns in the Zulu language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
+Adjectives in the Zulu language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
+Numerals in the Zulu language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>
 
 
 
@@ -734,7 +742,8 @@ given the proper use of these flags.
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Zulu are read out, e.g.
@@ -750,8 +759,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1161,3 +1171,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-zul/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
