@@ -606,28 +606,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-zul/blob/main/../src/cg3/functions.cg3)</small>Prefixes
-Prefixes in the Zulu language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
-Adjectives in the Zulu language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
-Numerals in the Zulu language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
-Pronouns in the Zulu language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-zul/blob/main/../src/cg3/functions.cg3)</small>
 # NOUN AFFIXES
 
 
@@ -648,7 +627,28 @@ Pronouns in the Zulu language are references to things.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronouns
+Pronouns in the Zulu language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
+Numerals in the Zulu language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
+Adjectives in the Zulu language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>
 Morphology
 
  # Definitions for Multichar_Symbols
