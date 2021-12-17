@@ -606,49 +606,28 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-zul/blob/main/../src/cg3/functions.cg3)</small>
-# NOUN AFFIXES
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronouns
-Pronouns in the Zulu language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-zul/blob/main/../src/cg3/functions.cg3)</small>Numerals
 Numerals in the Zulu language are numbers.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>Adjectives
+Adjectives in the Zulu language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>Prefixes
 Prefixes in the Zulu language are bound to beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
-Adjectives in the Zulu language describe things.
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Pronouns
+Pronouns in the Zulu language are references to things.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>
 Morphology
 
  # Definitions for Multichar_Symbols
@@ -689,6 +668,27 @@ given the proper use of these flags.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/root.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/symbols.lexc)</small>
+# NOUN AFFIXES
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 We describe here how abbreviations are in Zulu are read out, e.g.
