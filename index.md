@@ -7,6 +7,11 @@
 
 This page documents the work on the **Zulu language model**. 
 
+This is a test version of a grammatical analyser for Zulu.
+
+It has almost no content, but gives a sketch of
+how the noun class system could be analysed.
+
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
