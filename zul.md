@@ -667,28 +667,28 @@ given the proper use of these flags.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/nouns.lexc)</small>Prefixes
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/affixes/nouns.lexc)</small>Adjectives
+Adjectives in the Zulu language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
+Numerals in the Zulu language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
+Pronouns in the Zulu language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>Prefixes
 Prefixes in the Zulu language are bound to beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
-Adjectives in the Zulu language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/adjectives.lexc)</small>Pronouns
-Pronouns in the Zulu language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
-Numerals in the Zulu language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-zul/blob/main/../src/fst/stems/prefixes.lexc)</small>
 
 
 We describe here how abbreviations are in Zulu are read out, e.g.
