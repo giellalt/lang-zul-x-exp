@@ -4,6 +4,8 @@ The Zulu morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-zul-x-exp/main/badge.svg)](https://github.com/giellalt/lang-zul-x-exp/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-zul?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-zul?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Zulu language,
 for building morphological analysers, proofing tools
