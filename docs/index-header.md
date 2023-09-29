@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-zul)](https://github.com/giellalt/lang-zul/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-zul-x-exp/main/badge.svg)](https://github.com/giellalt/lang-zul-x-exp/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-zul-x-exp/main/badge.svg)](https://github.com/giellalt/lang-zul-x-exp/actions)
 
 This page documents the work on the **Zulu language model**. 
 
