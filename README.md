@@ -1,6 +1,7 @@
 The Zulu morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-zul-x-exp%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-zul-x-exp/main/badge.svg)](https://github.com/giellalt/lang-zul-x-exp/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/blob/main/LICENSE)
