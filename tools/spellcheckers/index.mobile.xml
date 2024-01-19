@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>zu</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Zulu</title>
+    <title>Zulu</title>
     <description>This is an fst-based speller for Zulu. It is based
     on the normative subset of the morphological analyser for Zulu.
     The source code can be found at:
