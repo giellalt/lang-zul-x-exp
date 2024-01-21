@@ -21,7 +21,7 @@ VowelSimplification a u to o
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.xfscript](https://github.com/giellalt/lang-zul-x-exp/blob/main/src/fst/phonology.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.xfscript](https://github.com/giellalt/lang-zul-x-exp/blob/main/src/fst/morphology/phonology.xfscript)</small>
 
 ---
 
