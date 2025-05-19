@@ -190,6 +190,17 @@ These were the set types.
 
 ---
 
+# src-fst-morphology-affixes-prefixes.lexc.md 
+
+Prefixes
+Prefixes in the Zulu language are bound to beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-zul-x-exp/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
+
+---
+
 # src-fst-morphology-affixes-symbols.lexc.md 
 
 
@@ -290,17 +301,6 @@ Numerals in the Zulu language are numbers.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-zul-x-exp/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
-
----
-
-# src-fst-morphology-stems-prefixes.lexc.md 
-
-Prefixes
-Prefixes in the Zulu language are bound to beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-zul-x-exp/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
