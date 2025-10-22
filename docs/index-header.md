@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-zul)](https://github.com/giellalt/lang-zul/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-zul-x-exp?label=CI)](https://builds.giellalt.org/pipelines/lang-zul-x-exp/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/zulu1248)
 
 This page documents the work on the **Zulu language model**. 
 
