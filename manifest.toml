@@ -1,6 +1,3 @@
-spellername = "Zulu"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,14 @@ legacy_product_codes = [
     { value = "C28CEEFA-5BA5-40BD-B2D5-77D5A968665B", kind = "nsis" },
     { value = "B03EE16A-5372-492B-B672-D675C94C92B6", kind = "nsis" }
 ]
+[package.speller]
+name = "Zulu"
+version = "0.1.1"
+
+[package.grammar]
+name = "Zulu"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Zulu"
+version = "0.1.0"
