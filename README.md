@@ -1,8 +1,8 @@
 The Zulu morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-zul-x-exp%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-zul-x-exp%2Fgh-pages%2Flemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-zul-x-exp%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-zul-x-exp%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-zul-x-exp)](https://github.com/giellalt/lang-zul-x-exp/blob/main/LICENSE)
 [![Doc Build Status](https://github.com/giellalt/lang-zul-x-exp/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-zul-x-exp/actions)
